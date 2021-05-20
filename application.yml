@@ -1,3 +1,5 @@
+user:
+   firstname: thiru
 management:
    endpoint:
       health:
